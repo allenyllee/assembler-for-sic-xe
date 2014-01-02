@@ -92,7 +92,7 @@ int readLable(Lable *lables, int *table){ //Åª¨úÀÉ®×
 	char *tokenPtr = NULL; //token ªºpointer
 	int i, j=0, k=0; //counter
 	
-	fp = fopen("test.txt","r");
+	fp = fopen("test3.txt","r");
 	
 	if(fp != NULL){
 
